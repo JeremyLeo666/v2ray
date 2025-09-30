@@ -1,7 +1,7 @@
 #!/bin/bash
 
 author=JeremyLeo666
-v2ray=JeremyLeo666
+v2ray=JeremyLeo666     # 可以换为v2fly，就是在原作者那里下
 # github=https://github.com/JeremyLeo666/v2ray
 
 # bash fonts colors
