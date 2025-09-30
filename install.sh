@@ -1,8 +1,8 @@
 #!/bin/bash
 
-author=JeremyLeo666
-v2ray=JeremyLeo666     # 可以换为v2fly，就是在原作者那里下
-# github=https://github.com/JeremyLeo666/v2ray
+# 自定义替换，防止作者跑路下载不了。将下面的值换为自己GitHub仓库的名称即可。
+author=JeremyLeo666    # 使用自己仓库下载安装脚本，可以换为233boy 从原作者下，可以下载最新版。
+v2ray=JeremyLeo666     # 使用自己的仓库下载v2ray包，可以换为v2fly，从在原作者那里下，可以下载最新版。
 
 # bash fonts colors
 red='\e[31m'
